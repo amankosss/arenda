@@ -1,0 +1,99 @@
+body {
+	margin-top: 40px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color:#F5F5F5;
+}
+
+.edit_main{
+color:#666;
+font-size: 16px;
+font-family: Tahoma,Arial;
+border: 0px solid #CDCDCD;
+height:30px;
+width:448px;
+margin-left:20px;
+padding-left:10px;
+border-radius:4px;
+-webkit-border-radius:4px;
+-moz-border-radius:4px;
+-khtml-border-radius:4px;
+}
+    
+.edit_text{
+color:#666;
+font-size: 16px;
+font-family: Tahoma,Arial;
+border: 0px solid #CDCDCD;
+margin-left:20px;
+padding:10px;
+resize: none;
+width:438px;
+height:140px;
+border-radius:4px;
+-webkit-border-radius:4px;
+-moz-border-radius:4px;
+-khtml-border-radius:4px;
+} 
+
+.font_big {
+	margin: 0px;
+	font-family:Tahoma,Arial;
+	font-size:36px;
+	color:#666;
+}
+
+.font_normal {
+	margin: 0px;
+	font-family:Tahoma,Arial;
+	font-size:20px;
+	color:#666;
+}
+
+.font_big_white {
+	margin: 0px;
+	font-family:Tahoma,Arial;
+	font-size:36px;
+	color:#fff;
+}
+
+.font_normal_white {
+	margin: 0px;
+	font-family:Tahoma,Arial;
+	font-size:20px;
+	color:#fff;
+}
+
+.font_bold {
+	margin: 0px;
+	font-family:Tahoma,Arial;
+	font-size:14px;
+	font-weight:bold;
+	color:#666;
+}
+
+.font_support{
+	margin: 0px;
+	font-family:Tahoma, Arial;
+	font-size:16px;
+	color:#666;
+}
+
+.font_copyright{
+	margin: 0px;
+	font-family:Tahoma, Arial;
+	font-size:14px;
+	color:#fff;
+}
+
+.btn{
+opacity:1.0;
+border:0px;
+}
+.btn:hover{
+opacity:0.8;
+cursor:pointer;
+border:0px;
+}
+

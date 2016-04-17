@@ -1,0 +1,16 @@
+[19.07.2015 21:17:36] 46.191.128.90 : http://vk.com/id313302635 > Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:39.0) Gecko/20100101 Firefox/39.0
+[19.07.2015 21:35:43] 46.191.128.90 : http://vk.com/mr.adversary > Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.125 Safari/537.36 OPR/30.0.1835.88
+[19.07.2015 21:36:44] 46.191.128.90 : http://m.vk.com/search?c%5Bsection%5D=statuses&c%5Bq%5D=Selfispot > Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53
+[20.07.2015 13:49:43] 46.191.128.90 :  > Mozilla/5.0 (iPhone; CPU iPhone OS 7_1 like Mac OS X) AppleWebKit/537.51.2 (KHTML, like Gecko) Version/7.0 Mobile/11D167 Safari/9537.53
+[20.07.2015 23:30:38] 199.16.156.125 :  > Twitterbot/1.0
+[20.07.2015 23:30:38] 46.236.24.54 :  > Mozilla/5.0 (TweetmemeBot/4.0; +http://datasift.com/bot.html) Gecko/20100101 Firefox/31.0
+[20.07.2015 23:30:39] 74.6.254.119 :  > Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+[20.07.2015 23:30:40] 54.151.42.39 :  > Google-HTTP-Java-Client/1.17.0-rc (gzip)
+[20.07.2015 23:30:40] 54.151.42.39 :  > Google-HTTP-Java-Client/1.17.0-rc (gzip)
+[20.07.2015 23:30:40] 17.142.152.144 :  > Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.2.5 (KHTML, like Gecko) Version/8.0.2 Safari/600.2.5 (Applebot/0.1; +http://www.apple.com/go/applebot)
+[20.07.2015 23:30:40] 174.129.179.186 :  > help@dataminr.com
+[20.07.2015 23:30:57] 23.29.122.202 :  > MetaURI API/2.0 +metauri.com
+[20.07.2015 23:31:02] 74.6.254.119 :  > Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+[20.07.2015 23:31:28] 74.112.131.241 :  > Mozilla/5.0 ()
+[20.07.2015 23:32:05] 74.6.254.119 :  > Mozilla/5.0 (compatible; Yahoo! Slurp; http://help.yahoo.com/help/us/ysearch/slurp)
+[21.07.2015 08:03:52] 82.145.223.17 :  > Opera/9.80 (Android; Opera Mini/7.5.35644/36.2639; U; ru) Presto/2.12.423 Version/12.16

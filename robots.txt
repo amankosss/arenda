@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /googleplay/
+Disallow: /appstore/
+Host: www.arenda-app.ru
